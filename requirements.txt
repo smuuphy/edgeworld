@@ -1,0 +1,9 @@
+streamlit
+numpy
+torch
+torchvision
+torch-geometric
+matplotlib
+networkx
+pillow
+opencv-python-headless
